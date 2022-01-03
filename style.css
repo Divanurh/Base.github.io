@@ -1,0 +1,70 @@
+* {
+  font-family: 'Prompt', sans-serif;
+}
+
+.banner {
+  /* background: url("https://static.base.co.id/imager/landing-hero-121221.jpg") no-repeat center center; */
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: rgb(129, 148, 33);
+}
+
+.container-background {
+  background-size: cover;
+}
+
+.container-absolute {
+  position: absolute;
+  z-index: 10;
+  margin-top: 360px;
+  margin-left: 450px;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #e483c4f3;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.client img {
+  height: auto;
+  max-height: 50px;
+}
+
+.kontak {
+  background: url("https://wallpapercave.com/wp/wp6835980.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
